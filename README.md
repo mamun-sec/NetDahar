@@ -1,4 +1,4 @@
-<code>![](https://komarev.com/ghpvc/?username=mamun-sec&color=blue&label=Total+Recent+Views)</code> <code>![status](https://img.shields.io/badge/status-up-brightgreen)</code> <code><b><a href="https://www.linkedin.com/in/mamun-infosec/">Linkedin</a></code> <code><a href="https://www.facebook.com/Mamun.Masak/">Facebook</a></code> <code><a href="https://intarna.com/blog/">Blog</a></code> <code><a href="mailto:ceo@intarna.com">Email</a></b></code>
+<code>![](https://komarev.com/ghpvc/?username=mamun-sec&color=blue&label=Total+Recent+Views)</code> <code>![status](https://img.shields.io/badge/status-up-brightgreen)</code> <code><b><a href="https://www.linkedin.com/in/mamun-infosec/">Linkedin</a></code> <code><a href="https://www.facebook.com/Mamun.Masak/">Facebook</a></code> <code><a href="https://medium.com/@alfalahum">Blog</a></code> <code><a href="mailto:ceo@intarna.com">Email</a></b></code>
 <br>
 <h1>:white_square_button: NetDahar</h1>
 <br>
